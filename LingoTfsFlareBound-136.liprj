@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="4f93f675-7805-41cb-991e-b8e776501926">
+    <ProjectFile Source="Target/tfsLingo2.flprj" Target="Target/tfsLingo2.flprj" />
+</LingoProject>
